@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../UDP_socket"
+		}
+	],
+	"settings": {}
+}
