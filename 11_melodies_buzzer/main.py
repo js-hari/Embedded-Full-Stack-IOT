@@ -1,5 +1,3 @@
-# MicroPython Script for ESP32
-# Author: Himanshu Tripathi
 
 # play musical melodies with buzzer using esp32
 

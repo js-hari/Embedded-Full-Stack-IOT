@@ -1,5 +1,3 @@
-# MicroPython Script for ESP32
-# Author: Himanshu Tripathi
 
 # LED blinking with non-blocking delay
 

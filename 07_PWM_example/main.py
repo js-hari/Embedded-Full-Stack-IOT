@@ -1,5 +1,3 @@
-# MicroPython script for ESP32
-# Author: Himanshu Tripathi
 
 # ESP32 PWM
 # LED fading using PWM

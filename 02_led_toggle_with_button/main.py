@@ -1,5 +1,3 @@
-# MicroPython script for ESP32
-# Author: Himanshu Tripathi
 
 # toggle the state of led with each button press 
 

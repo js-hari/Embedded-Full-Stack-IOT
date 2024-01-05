@@ -1,5 +1,3 @@
-# MicroPython script for ESP32
-# Author: Himanshu Tripathi
 
 # Timers  in ESP32 
 # ESP32 port has four hardware timers

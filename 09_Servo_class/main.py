@@ -1,5 +1,3 @@
-# MicroPython script for ESP32
-# Author: Himanshu Tripathi
 
 # Servo motor class for multiple functionality
 # servo motor used is Tower Pro Micro Servo 9g

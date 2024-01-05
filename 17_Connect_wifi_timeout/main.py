@@ -1,5 +1,3 @@
-# MicroPython Script for ESP32
-# Author: Himanshu Tripathi
 
 # connect ESP32 with wifi using timeout
 # enter your ssid and password in place of 'ssid' & 'psk'

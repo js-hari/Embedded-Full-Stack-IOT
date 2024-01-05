@@ -1,5 +1,3 @@
-# MicroPython Script for ESP32
-# Author: Himanshu Tripathi
 
 # connect ESP32 with wifi using timeout
 # access wbsite data using requests method

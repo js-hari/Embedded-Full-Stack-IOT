@@ -1,5 +1,3 @@
-# MicroPython Script for ESP32
-# Author: Himanshu Tripathi
 
 # bi-directional data communnication using thingspeak API
 # temperature and humidity is read by the DHT 11 sensor

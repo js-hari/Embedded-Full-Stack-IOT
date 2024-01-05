@@ -1,5 +1,3 @@
-# MicroPython Script for ESP32
-# Author: Himanshu Tripathi
 
 # testing the maximum number of threads
 # that we may run on ESP32

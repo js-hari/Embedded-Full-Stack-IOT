@@ -1,5 +1,3 @@
-# MicroPython Script for ESP32
-# Author: Himanshu Tripathi
 
 # controlling led on and off using threads
 # one thread turn on the led, while

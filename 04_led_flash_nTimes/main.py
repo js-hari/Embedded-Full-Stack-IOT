@@ -1,5 +1,3 @@
-# MicroPython script for ESP32
-# Author: Himanshu Tripathi
 
 # define function for led flashing for n number of times
 

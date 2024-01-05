@@ -1,5 +1,3 @@
-# MicroPython Script for ESP32
-# Author: Himanshu Tripathi
 
 # ESP32 as web server (AP Mode)
 # This will display the values of

@@ -1,5 +1,3 @@
-# MicroPython script for ESP32
-# Author: Himanshu Tripathi
 
 # servo motor drive usign ESP32
 # frequency = 1 / Period = 1 / 20 ms = 50 Hz

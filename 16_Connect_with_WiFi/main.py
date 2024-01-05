@@ -1,5 +1,3 @@
-# MicroPython Script for ESP32
-# Author: Himanshu Tripathi
 
 # Connect ESP32 with wifi network
 # Note: before running the code

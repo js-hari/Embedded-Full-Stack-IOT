@@ -1,5 +1,3 @@
-# MicroPython Script for ESP32
-# Author: Himanshu Tripathi
 
 # tesing _thread module of MicroPython with ESP32
 # running 3 threads in esp32

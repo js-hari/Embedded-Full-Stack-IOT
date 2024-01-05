@@ -1,5 +1,3 @@
-# MicroPython Script for ESP32
-# Author: Himanshu Tripathi
 
 # ESP32 Weather Station with DHT11 Sensor
 # on Thingspeak (RESTful API)
